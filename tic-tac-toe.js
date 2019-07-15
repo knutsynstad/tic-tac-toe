@@ -49,4 +49,4 @@ let output = JSON.stringify(boards, null, 2)
 fs.writeFileSync('boards.json', output)
 
 // Troubleshooting
-debug(boards)
+//debug(boards)

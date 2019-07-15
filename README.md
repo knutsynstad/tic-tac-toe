@@ -65,6 +65,6 @@ git clone https://github.com/knutsynstad/tic-tac-toe.git
 
 2. Generate dataset:
 ```
-node ttt.js
+node tic-tac-toe.js
 ```
 Results are saved to `boards.json`
