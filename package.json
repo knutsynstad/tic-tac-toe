@@ -1,0 +1,17 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ttt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://knutsynstad@bitbucket.org/knutsynstad/tic-tac-toe.git"
+  },
+  "author": "Knut M. Synstad",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/knutsynstad/tic-tac-toe#readme",
+  "dependencies": {}
+}
