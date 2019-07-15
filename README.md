@@ -22,7 +22,7 @@ Generating a dataset of the 765 unique game boards, and the connections between 
       "O"
     ],
     // Cells of the game board
-    // left-to-right and top-to-bottom
+    // Left-to-right and top-to-bottom
     // Can be 'X', 'O', or 'E' for empty
     "symmetries": [
       "duplicate",
@@ -36,7 +36,7 @@ Generating a dataset of the 765 unique game boards, and the connections between 
       114,
       141
     ],
-    // list of game board IDs that preceeded this one
+    // List of game board IDs that preceeded this one
     "children": [
       378,
       494,
@@ -45,11 +45,11 @@ Generating a dataset of the 765 unique game boards, and the connections between 
     ],
     // List of game board IDs that followed this one
     "result": false,
-    // 'false' if the game is ongoing,
-    // if a result has been reached:
-    // 'X', 'O', or 'draw'
+    // Game result
+    // 'false' if the game is ongoing
+    // 'X', 'O', or 'draw' if the game is over
     "level": 5
-    // Game move # as 1–9
+    // Game move (1–9)
   },
   ...
   {...}
