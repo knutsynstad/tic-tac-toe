@@ -49,7 +49,7 @@ Generating a dataset of the 765 unique game boards, and the connections between 
     // 'false' if the game is ongoing
     // 'X', 'O', or 'draw' if the game is over
     "level": 5
-    // Game move (1–9)
+    // Game move (0–9)
   },
   ...
   {...}
